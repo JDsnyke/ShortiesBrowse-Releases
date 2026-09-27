@@ -1,0 +1,19 @@
+{
+  "name": "ShortiesBrowse",
+  "identifier": "com.personal.shortiesbrowse",
+  "sourceURL": "https://raw.githubusercontent.com/JDsnyke/ShortiesBrowse-Releases/main/app-repo.json",
+  "apps": [
+    {
+      "name": "ShortiesBrowse",
+      "bundleIdentifier": "com.personal.shortiesbrowse",
+      "developerName": "JDsnyke",
+      "version": "1.0.1",
+      "versionDate": "2026-09-27",
+      "downloadURL": "https://github.com/JDsnyke/ShortiesBrowse-Releases/releases/latest/download/ShortiesBrowse-1.0.1-2.ipa",
+      "localizedDescription": "Personal private Shorties browser. Unsigned IPA \u2014 sign in Feather. Release pending first CI upload.",
+      "iconURL": "https://raw.githubusercontent.com/JDsnyke/ShortiesBrowse-Releases/main/icon.png",
+      "size": 0
+    }
+  ],
+  "news": []
+}
