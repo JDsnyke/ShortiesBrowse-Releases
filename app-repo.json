@@ -9,10 +9,10 @@
       "developerName": "JDsnyke",
       "version": "1.0.1",
       "versionDate": "2026-09-27",
-      "downloadURL": "https://github.com/JDsnyke/ShortiesBrowse-Releases/releases/latest/download/ShortiesBrowse-1.0.1-2.ipa",
-      "localizedDescription": "Personal private Shorties browser. Unsigned IPA \u2014 sign in Feather. Release pending first CI upload.",
+      "downloadURL": "https://github.com/JDsnyke/ShortiesBrowse-Releases/releases/download/v1.0.1-2/ShortiesBrowse-1.0.1-2.ipa",
+      "localizedDescription": "Personal private Shorties browser. Unsigned IPA \u2014 sign in Feather.",
       "iconURL": "https://raw.githubusercontent.com/JDsnyke/ShortiesBrowse-Releases/main/icon.png",
-      "size": 0
+      "size": 205423
     }
   ],
   "news": []
